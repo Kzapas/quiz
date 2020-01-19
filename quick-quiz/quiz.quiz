@@ -1,0 +1,53 @@
+// example quiz text
+// @bsouthga
+// <- (this is a comment and will be ignored)
+
+// this is the url for the parent
+url: http://urbaninstitute.github.io/quick-quiz/
+
+// this is the title of the quiz
+# How well do you know Kipstudios?
+
+// this is an example question.
+// the number signifies the question order,
+// meaning questions can be placed in random order
+// within the file
+1) Who is the CEO of Kipstudios?
+
+  // these are answers, a correct answer
+  // is indicated by a "*"
+  - Kiptras Vipas
+  - Kipdaddy
+  * Kipras Vitas
+  - Kipstudios
+
+  // this is a reponse text paragraph
+  // it will be displayed upon answering
+  // the question correctly
+  The CEO of Kipstudios is Kipras Vitas
+
+
+2) How old is Kipras Vitas?
+  * 14 years old
+  - 15 years old
+  - 13 years old
+
+3) What is the name of this texture style?
+  - Smoothy
+  * Gradient
+  - Color Fill
+
+  // this image will appear along with
+  // the question prompt
+  (image) icon.png
+
+  // this credit will appear along with
+  // image
+  (image_credit) Kipstudios Icon
+  
+4) What is the original purpose of Kipstudios?
+  - To share coding tricks
+  - For video game development junkies
+  * To share my work with friends and loved ones
+  
+  python quiz_questions.py unicorns.quiz

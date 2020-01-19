@@ -1,0 +1,58 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Kitras Vipas",
+        "Kipdaddy",
+        "Kipras Vitas",
+        "Kipstudios"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "The CEO of Kipstudios is Kipras Vitas"
+      },
+      "number": 1,
+      "prompt": "Who is the CEO of Kipstudios?"
+    },
+    {
+      "answers": [
+        "14 years old",
+		"15 years old",
+		"13 years old"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 2,
+      "prompt": "How old is Kipras Vitas?"
+    },
+    {
+      "answers": [
+        "Smoothie",
+        "Gradient",
+        "Colorful"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "Icon.png",
+      "image_credit": "Kipstudios Icon",
+      "number": 3,
+      "prompt": "What is the name of this texture style?"
+    },
+	{
+      "answers": [
+        "To communicate with game development junkies",
+		"To share coding tricks",
+		"To share my work with others"
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 4,
+      "prompt": "What was the original purpose of Kipstudios?"
+    }
+  ],
+  "title": "How well do you know Kipstudios?",
+  "url": "http://kipstudios.masteryourtest.com"
+}
