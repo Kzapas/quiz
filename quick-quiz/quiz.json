@@ -35,7 +35,7 @@
       "correct": {
         "index": 1
       },
-      "image": "Icon.png",
+      "image": "icon.png",
       "image_credit": "Kipstudios Icon",
       "number": 3,
       "prompt": "What is the name of this texture style?"
